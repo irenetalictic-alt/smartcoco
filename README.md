@@ -1,17 +1,17 @@
-# semester_project
+# SmartCoco - A Web-Based Coconut Variety Classification System Using Image Recognition
 
-A new Flutter project.
+## Summary
+SmartCoco lets a user upload a coconut photo and (in later activities) classifies it as Tall, Dwarf, or Hybrid using image recognition. Activity 8 only sets up the Flutter Web baseline: Home and Login placeholder screens.
 
-## Getting Started
+## Current stack
+- Implemented now: Flutter Web / Dart, Git + GitHub
+- Planned (not implemented yet): FastAPI REST API, PostgreSQL
 
-This project is a starting point for a Flutter application.
+## Run locally
+git clone https://github.com/irenetalictic-alt/smartcoco.git
+cd smartcoco
+flutter pub get
+flutter run -d edge
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## First checkpoint
+Date: 15 October 2026 | Commit: 61fe93b
